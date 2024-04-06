@@ -1,5 +1,6 @@
 # OpenAI Taxi-V2 Player via Q-Learning
-
+ In this project, we tackle the OpenAI Taxi-V2 environment using Q-Learning, a fundamental RL algorithm. 🚕
+ 
 ## Environment Methods:
 - env.reset(): Resets the environment and returns a random initial state
 - env.step(action): Steps the environment by one timestep. Returns:
